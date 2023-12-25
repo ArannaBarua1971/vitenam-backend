@@ -17,6 +17,7 @@
     </head>
     <body class="antialiased">
         
+        {{-- <a href="{{ route("googleLogin") }}">google</a> --}}
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit odit itaque beatae praesentium molestias animi dolores nostrum accusamus, ad saepe consequuntur voluptate cumque, cupiditate et dolore cum molestiae fuga soluta?</p>
     </body>
 </html>

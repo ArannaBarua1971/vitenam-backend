@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'paths' => ['https://api.kinhdoanhdautu.com.vn/api/*', 'sanctum/csrf-cookie'],
+    'paths' => ['api/*', 'sanctum/csrf-cookie'],
 
     'allowed_methods' => ['*'],
 
